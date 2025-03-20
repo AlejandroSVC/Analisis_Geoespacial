@@ -51,3 +51,7 @@ full.plot(column='GSE', cmap=cmap, figsize=figsize, k=colors, legend=True, aspec
 plt.title(title, fontdict={'fontsize': 18}, loc='center')
 
 plt.show()
+
+![Mapa](docs/assets/images/Mapa_GSE_segun_comuna_RM.png)
+
+
