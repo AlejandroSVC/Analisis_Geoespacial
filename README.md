@@ -1,5 +1,9 @@
 ### Geospatial Analysis with Python
+
+![Mapa](docs/assets/images/Banner_mapa.jpg)
+
 # Metropolitan Region of Chile: Comunas by Socioeconomic level
+
 # Python code
 
 SET THE WORKING DIRECTORY
