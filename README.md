@@ -56,6 +56,6 @@ plt.title(title, fontdict={'fontsize': 18}, loc='center')
 
 plt.show()
 ```
-![Mapa](docs/assets/images/Mapa_GSE_segun_comuna_RM_2.jpg)
+![Mapa](docs/assets/images/Mapa_GSE_segun_comuna_RM.png)
 
 
