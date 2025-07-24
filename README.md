@@ -1,6 +1,7 @@
 # Análisis Geoespacial
 ## Región Metropolitana de Chile: Comunas por nivel socioeconómico
-## Análisis con Python y Geopandas
+
+Análisis mediante Python y Geopandas
 
 ![Mapa](docs/assets/images/Banner_mapa.jpg)
 
