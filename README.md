@@ -3,7 +3,7 @@
 
 Análisis mediante Python y Geopandas
 
-![Mapa](docs/assets/images/Banner_mapa.jpg)
+![banner_mapa.jpg](docs/assets/images/banner_mapa.jpg)
 
 ## Código Python
 
